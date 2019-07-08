@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastCounter</string>
+    <string name="btn_toast_text">TOAST</string>
+    <string name="btn_count_text">COUNT</string>
+</resources>
