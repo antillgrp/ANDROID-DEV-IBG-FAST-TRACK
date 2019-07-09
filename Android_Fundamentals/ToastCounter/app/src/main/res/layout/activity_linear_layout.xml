@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SecondActivity"
+>
+    <Button
+            android:id="@+id/btn_toast"
+            android:text="@string/btn_toast_text"
+            android:textColor="@android:color/white"
+            android:background="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showToast"
+            android:textSize="60sp"
+            android:layout_margin="8dp"
+    />
+    <TextView
+            android:id="@+id/show_count"
+            android:text="0"
+            android:textSize="200sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textColor="@color/colorPrimary"
+            android:background="@color/show_count_bg_cl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+    />
+    <Button
+            android:id="@+id/btn_count"
+            android:text="@string/btn_count_text"
+            android:textColor="@android:color/white"
+            android:background="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="countUp"
+            android:textSize="60sp"
+            android:layout_margin="8dp"
+    />
+</LinearLayout>

@@ -59,4 +59,8 @@ public class MainActivity extends AppCompatActivity {
     public void countUp(View view) {
         ((TextView) findViewById(R.id.show_count)).setText(Integer.toString(++this.counter));
     }
+
+    public void setToZero(View view) {
+        ((TextView) findViewById(R.id.show_count)).setText(Integer.toString((this.counter = 0) * 0));
+    }
 }
