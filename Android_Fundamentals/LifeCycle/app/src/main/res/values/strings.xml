@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+    <string name="visible">I\'m Visible</string>
+</resources>
