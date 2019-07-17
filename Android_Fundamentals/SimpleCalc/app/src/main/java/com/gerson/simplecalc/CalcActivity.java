@@ -2,11 +2,10 @@ package com.gerson.simplecalc;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.util.Log;
 import android.text.TextUtils;
-
-
-import android.view.*;
+import android.util.Log;
+import android.view.View;
+import android.view.ViewGroup;
 import android.widget.*;
 
 public class CalcActivity extends Activity {
