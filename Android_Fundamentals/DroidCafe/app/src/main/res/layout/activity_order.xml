@@ -7,6 +7,18 @@
         android:layout_height="match_parent"
         tools:context=".OrderActivity">
 
+    <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="24dp"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    >
+
+        <include layout="@layout/content_order"/>
+
+    </android.support.v4.widget.NestedScrollView>
+
     <android.support.design.widget.FloatingActionButton
             android:id="@+id/fab"
             app:srcCompat="@android:drawable/ic_menu_close_clear_cancel"

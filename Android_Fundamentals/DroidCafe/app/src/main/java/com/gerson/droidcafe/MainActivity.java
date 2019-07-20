@@ -13,6 +13,23 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    //region STATICS
+    public static void displayToast(View view, String message) {
+        Toast
+                .makeText(
+                        view.getContext(),
+                        message,
+                        Toast.LENGTH_SHORT
+                )
+                .show();
+
+        Snackbar
+                .make(view, message, Snackbar.LENGTH_LONG)
+                .setAction("Action", null)
+                .show();
+    }
+    //endregion
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,45 +37,42 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-//        FloatingActionButton fab = findViewById(R.id.fab);
-//        fab.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-//                        .setAction("Action", null).show();
-//            }
-//        });
+        FloatingActionButton fab = findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+            launchOrderActivity();
+//          Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+//          .setAction("Action", null).show();
+            }
+        });
     }
 
-    public void displayToast(String message) {
-        Toast
-        .makeText(
-            this.getApplicationContext(),
-            message,
-            Toast.LENGTH_SHORT
-        )
-        .show();
+    public void launchOrderActivity(){
+        startActivity(
+                new Intent(MainActivity.this, OrderActivity.class)
+        );
     }
 
     /**
      * Shows a message that the donut image was clicked.
      */
     public void showDonutOrder(View view) {
-        displayToast(getString(R.string.donut_order_message));
+        displayToast(view, getString(R.string.donut_order_message));
     }
 
     /**
      * Shows a message that the ice cream sandwich image was clicked.
      */
     public void showIceCreamOrder(View view) {
-        displayToast(getString(R.string.ice_cream_order_message));
+        displayToast(view, getString(R.string.ice_cream_order_message));
     }
 
     /**
      * Shows a message that the froyo image was clicked.
      */
     public void showFroyoOrder(View view) {
-        displayToast(getString(R.string.froyo_order_message));
+        displayToast(view, getString(R.string.froyo_order_message));
     }
 
     public void openOrderActivity(View view) {
@@ -78,11 +92,22 @@ public class MainActivity extends AppCompatActivity {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
 
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+        switch (item.getItemId()) {
+            case R.id.action_order:
+                displayToast(findViewById(R.id.fab),"Menu Order");
+                launchOrderActivity();
+                break;
+            case R.id.action_status:
+                displayToast(findViewById(R.id.fab),"Status requested");
+                break;
+            case R.id.action_favorites:
+                displayToast(findViewById(R.id.fab),"Show favorites");
+                break;
+            case R.id.action_contact:
+                displayToast(findViewById(R.id.fab),"Display contact info");
+                break;
+            default: break;
         }
 
         return super.onOptionsItemSelected(item);
