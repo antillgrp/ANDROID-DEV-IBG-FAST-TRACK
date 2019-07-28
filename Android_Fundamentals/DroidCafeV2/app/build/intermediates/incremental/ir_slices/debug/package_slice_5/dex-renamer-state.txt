@@ -1,0 +1,4 @@
+#Sat Jul 27 17:44:08 PDT 2019
+base.0=D\:\\IBG-FAST-TRACK\\Android_Fundamentals\\DroidCafeV2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

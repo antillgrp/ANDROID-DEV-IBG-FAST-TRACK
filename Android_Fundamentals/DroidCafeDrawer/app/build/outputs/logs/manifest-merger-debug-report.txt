@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d75ae7a23dd49a97c697a3225bde1828\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d06b7d0fb7ad224ae3a64a0cab376889\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\56a2cc849f6d6e43d682d18cdc0e89a8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7aa77da8c103c5185a6f6dfac92b19be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5734d93fe039bed8b32aa4e8012fc8af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1636ad85631dedde43577bc30745b192\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6cb0fca1a05069eb441e82b17846d351\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\304f21832bb3a2951aaad8b1cbff8c66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\47d72cd32fcb206e3c8d867498b56276\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb435414b0c49ba8de345b8c32f740b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c2a800bdc6a839db23234e08eb4c5dac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dbe96281783c84a222df0ef17a2bc480\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\60633b3cd594618b7207e92da6641f96\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5f002c8ec9055d7c49aeedacf0301b3a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b8258e68a6b9dc4c439dcce8cc97c3b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b701a7b04ab7d007ac4651343274d290\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd7098ac8dba561979e7aedcd402e211\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:3:11-47
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\56a2cc849f6d6e43d682d18cdc0e89a8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\56a2cc849f6d6e43d682d18cdc0e89a8\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.gerson.droidcafedrawer.MainActivity
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:14:17-49
+	android:theme
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:15:17-60
+	android:name
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:13:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.gerson.droidcafedrawer.OrderActivity
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:parentActivityName
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:24:19-61
+	android:label
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:23:19-63
+	android:name
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:22:19-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:26:13-28:15
+	android:value
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:27:24-53
+	android:name
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml:26:24-70
+uses-sdk
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d75ae7a23dd49a97c697a3225bde1828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d75ae7a23dd49a97c697a3225bde1828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d06b7d0fb7ad224ae3a64a0cab376889\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d06b7d0fb7ad224ae3a64a0cab376889\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\56a2cc849f6d6e43d682d18cdc0e89a8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\56a2cc849f6d6e43d682d18cdc0e89a8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7aa77da8c103c5185a6f6dfac92b19be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7aa77da8c103c5185a6f6dfac92b19be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5734d93fe039bed8b32aa4e8012fc8af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5734d93fe039bed8b32aa4e8012fc8af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1636ad85631dedde43577bc30745b192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1636ad85631dedde43577bc30745b192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6cb0fca1a05069eb441e82b17846d351\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6cb0fca1a05069eb441e82b17846d351\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\304f21832bb3a2951aaad8b1cbff8c66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\304f21832bb3a2951aaad8b1cbff8c66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\47d72cd32fcb206e3c8d867498b56276\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\47d72cd32fcb206e3c8d867498b56276\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb435414b0c49ba8de345b8c32f740b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb435414b0c49ba8de345b8c32f740b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c2a800bdc6a839db23234e08eb4c5dac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c2a800bdc6a839db23234e08eb4c5dac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dbe96281783c84a222df0ef17a2bc480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dbe96281783c84a222df0ef17a2bc480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\60633b3cd594618b7207e92da6641f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\60633b3cd594618b7207e92da6641f96\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5f002c8ec9055d7c49aeedacf0301b3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5f002c8ec9055d7c49aeedacf0301b3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b8258e68a6b9dc4c439dcce8cc97c3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b8258e68a6b9dc4c439dcce8cc97c3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b701a7b04ab7d007ac4651343274d290\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b701a7b04ab7d007ac4651343274d290\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd7098ac8dba561979e7aedcd402e211\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd7098ac8dba561979e7aedcd402e211\AndroidManifest.xml:20:5-44
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeDrawer\app\src\main\AndroidManifest.xml

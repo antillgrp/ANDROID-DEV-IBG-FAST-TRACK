@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\10c85490a1e0b973e1899b3cd554d4c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1b8d29c9f04b24925e6f694a9a18ecd3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\7e6a65e665a32b7b8a6c7286c7cdff97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\518e7e2e099e610b88a77c2d7c6a2d34\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\31e70db79929d61575e3d774d294b3a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\223c4f6ae451b5a5ed5bd50211be6a87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d7ecee539ab3987558dccf3d73dd4be7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d83fd5ee5682ddf55d217cbbf2aa7826\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e1a7c32b391f3c431a5cdc7b24ef0f1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\9b4781f13e8767dbb4b077bcf4024a60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\90ea208aa1378dd2ea0b9c3de2fb9444\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\6abdddb2b6c6dc64b8f47576c6d57ea4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1aa25b32d032a50f9bee49bc834303b2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d2e1feeeeea9356371a8c429747dc8aa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\06ea46d53e84a2dfef567aa68d6b5c3f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e7ac50d1ffcc4cbcc3ed7ec7ef150171\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\5a2435a35193ea9b610acca04a6f3eb6\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\518e7e2e099e610b88a77c2d7c6a2d34\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\518e7e2e099e610b88a77c2d7c6a2d34\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.gerson.droidcafev2.MainActivity
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:14:17-49
+	android:theme
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:15:17-60
+	android:name
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:13:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.gerson.droidcafev2.OrderActivity
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:parentActivityName
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:24:19-61
+	android:label
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:23:19-63
+	android:name
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:22:19-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:26:13-28:19
+	android:value
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:27:24-53
+	android:name
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml:26:24-70
+uses-sdk
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\10c85490a1e0b973e1899b3cd554d4c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\10c85490a1e0b973e1899b3cd554d4c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1b8d29c9f04b24925e6f694a9a18ecd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1b8d29c9f04b24925e6f694a9a18ecd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\7e6a65e665a32b7b8a6c7286c7cdff97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\7e6a65e665a32b7b8a6c7286c7cdff97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\518e7e2e099e610b88a77c2d7c6a2d34\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\518e7e2e099e610b88a77c2d7c6a2d34\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\31e70db79929d61575e3d774d294b3a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\31e70db79929d61575e3d774d294b3a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\223c4f6ae451b5a5ed5bd50211be6a87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\223c4f6ae451b5a5ed5bd50211be6a87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d7ecee539ab3987558dccf3d73dd4be7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d7ecee539ab3987558dccf3d73dd4be7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d83fd5ee5682ddf55d217cbbf2aa7826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d83fd5ee5682ddf55d217cbbf2aa7826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e1a7c32b391f3c431a5cdc7b24ef0f1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e1a7c32b391f3c431a5cdc7b24ef0f1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\9b4781f13e8767dbb4b077bcf4024a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\9b4781f13e8767dbb4b077bcf4024a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\90ea208aa1378dd2ea0b9c3de2fb9444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\90ea208aa1378dd2ea0b9c3de2fb9444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\6abdddb2b6c6dc64b8f47576c6d57ea4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\6abdddb2b6c6dc64b8f47576c6d57ea4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1aa25b32d032a50f9bee49bc834303b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1aa25b32d032a50f9bee49bc834303b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d2e1feeeeea9356371a8c429747dc8aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d2e1feeeeea9356371a8c429747dc8aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\06ea46d53e84a2dfef567aa68d6b5c3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\06ea46d53e84a2dfef567aa68d6b5c3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e7ac50d1ffcc4cbcc3ed7ec7ef150171\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e7ac50d1ffcc4cbcc3ed7ec7ef150171\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\5a2435a35193ea9b610acca04a6f3eb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\5a2435a35193ea9b610acca04a6f3eb6\AndroidManifest.xml:20:5-44
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+		ADDED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IBG-FAST-TRACK\Android_Fundamentals\DroidCafeV2\app\src\main\AndroidManifest.xml
