@@ -3,7 +3,6 @@ package com.gerson.droidcafedrawer;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
-import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
@@ -21,12 +20,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.LinearLayout;
 import android.widget.Toast;
-import com.gerson.droidcafedrawer.model.InventoryProduct;
 import com.gerson.droidcafedrawer.model.ProductDescriptor;
 import com.gerson.droidcafedrawer.model.ShoppingCart;
 
 import java.math.BigDecimal;
-import java.util.Random;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -150,19 +147,16 @@ public class MainActivity extends AppCompatActivity
         navigationView.bringToFront();
         //endregion
 
-
-
         RecyclerView mRecyclerView = findViewById(R.id.recyclerview);
         mRecyclerView.setAdapter(new ShoppingCard_RV_Adapter(this, shoppingCart));
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
     }
 
-    public void increaseCartProdAmount(@NonNull View view) { //++
-        this.alterCartProdAmount(view,1.0d);
-    }
-    public void decreaseCartProdAmount(@NonNull View view) { //--
-        this.alterCartProdAmount(view,-1.0d);
-    }
+    //++
+    public void increaseCartProdAmount(@NonNull View view) { this.alterCartProdAmount(view,1.0d); }
+
+    //--
+    public void decreaseCartProdAmount(@NonNull View view) { this.alterCartProdAmount(view,-1.0d); }
 
     public void alterCartProdAmount(@NonNull View view, Double newAmount) {
 

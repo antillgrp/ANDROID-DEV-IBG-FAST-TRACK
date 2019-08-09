@@ -30,14 +30,17 @@ public class ProductDescriptor {
 
     @Override
     public boolean equals(@NonNull Object o){
-        if(!(o instanceof ProductDescriptor)) return false;
-        ProductDescriptor param = (ProductDescriptor) o;
-        return
-            this.id == param.id
-            &&
-            this.name.equals(param.name)
-            &&
-            this.price.compareTo(param.price) == 0;
+        if (this == o) return true;
+        if(o instanceof ProductDescriptor) {
+            ProductDescriptor param = (ProductDescriptor) o;
+            return
+                this.id == param.id
+                &&
+                this.name.equals(param.name)
+                &&
+                this.price.compareTo(param.price) == 0;
+        }
+        else return false;
     }
 
     @Override
