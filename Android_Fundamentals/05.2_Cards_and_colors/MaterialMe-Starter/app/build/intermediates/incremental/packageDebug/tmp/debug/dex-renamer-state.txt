@@ -1,0 +1,4 @@
+#Sat Aug 10 13:22:44 PDT 2019
+base.0=D\:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
