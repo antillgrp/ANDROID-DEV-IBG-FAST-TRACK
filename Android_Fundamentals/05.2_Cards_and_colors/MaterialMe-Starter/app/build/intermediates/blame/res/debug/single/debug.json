@@ -1,23 +1,23 @@
 [
     {
-        "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_running.jpg.flat",
-        "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_running.jpg"
-    },
-    {
         "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_golf.jpg.flat",
         "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_golf.jpg"
+    },
+    {
+        "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_running.jpg.flat",
+        "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_running.jpg"
     },
     {
         "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_restore_black_24dp.png.flat",
-        "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_restore_black_24dp.png"
-    },
-    {
         "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_restore_black_24dp.png.flat",
         "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_restore_black_24dp.png"
+    },
+    {
+        "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_restore_black_24dp.png.flat",
+        "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_restore_black_24dp.png"
     },
     {
         "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_bowling.jpg.flat",
@@ -76,12 +76,12 @@
         "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_tabletennis.jpg.flat",
-        "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_tabletennis.jpg"
-    },
-    {
         "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_restore_black_24dp.xml.flat",
         "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_restore_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_tabletennis.jpg.flat",
+        "source": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_tabletennis.jpg"
     },
     {
         "merged": "D:\\IBG-FAST-TRACK\\Android_Fundamentals\\05.2_Cards_and_colors\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",

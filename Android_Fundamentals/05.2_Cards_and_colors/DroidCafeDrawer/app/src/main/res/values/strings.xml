@@ -62,4 +62,9 @@
 
     <string name="night_mode">Night Mode</string>
     <string name="day_mode">Day Mode</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_fav_desc">Add to favorites</string>
+    <string name="button_buy_desc">Add to Cart</string>
 </resources>

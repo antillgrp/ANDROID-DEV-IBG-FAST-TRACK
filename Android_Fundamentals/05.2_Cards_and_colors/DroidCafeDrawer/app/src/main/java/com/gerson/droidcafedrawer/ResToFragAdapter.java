@@ -11,17 +11,22 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.gerson.droidcafedrawer.model.MenuProductDescriptor;
+
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Hashtable;
+import java.util.LinkedList;
+
 
 public class ResToFragAdapter extends Fragment {
 
     //region STATICS
+
     public final static String RESOURCE = "RESOURCE";
 
-
-    @NonNull
-    //@org.jetbrains.annotations.Contract("_, _ -> new")
-    public static FragmentStatePagerAdapter ResArrToPagAdapter(
-            final FragmentManager fm,
+    @NonNull public static FragmentStatePagerAdapter ResArrToPagAdapter(
+            final FragmentManager fm, //this.getSupportFragmentManager()
             final @NonNull @LayoutRes int [] resources
     ){
         return new FragmentStatePagerAdapter(fm) {
@@ -44,6 +49,7 @@ public class ResToFragAdapter extends Fragment {
             }
         };
     }
+
     //endregion
 
     public ResToFragAdapter(){

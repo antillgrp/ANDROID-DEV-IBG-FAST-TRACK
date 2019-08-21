@@ -22,30 +22,26 @@
     <style name="CartButtons" parent="Widget.AppCompat.Button">
         <item name="android:background">@drawable/amount_btt_bg</item>
         <item name="android:tint">@color/colorPrimary</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginRight">5dp</item>
     </style>
     <style name="AddButtons" parent="CartButtons">
         <item name="android:src">@drawable/amount_ic_add_btt</item>
-        <item name="android:contentDescription">
-            "ADD"
-            <!--
-                @string/plus_button_description
-            -->
-        </item>
-        <item name="android:layout_gravity">center_vertical</item>
-        <item name="android:layout_marginRight">5dp</item>
-
+        <item name="android:contentDescription">"ADD"</item>
     </style>
     <style name="SubButtons" parent="CartButtons">
         <item name="android:src">@drawable/amount_ic_sub_btt</item>
-        <item name="android:contentDescription">
-            "SUB"
-            <!--
-                @string/minus_button_description
-            -->
-        </item>
-        <item name="android:layout_gravity">center_vertical</item>
-        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:contentDescription">"SUB"</item>
     </style>
+    <style name="FavButtons" parent="CartButtons">
+        <item name="android:src">@drawable/ic_favorites</item>
+        <item name="android:contentDescription">"Add to favorites"</item>
+    </style>
+    <style name="BuyButtons" parent="CartButtons">
+        <item name="android:src">@drawable/ic_shopping_cart</item>
+        <item name="android:contentDescription">"Add to Cart"</item>
+    </style>
+
     <style name="HolderText">
         <item name="android:textAppearance">
             @style/TextAppearance.AppCompat.Medium

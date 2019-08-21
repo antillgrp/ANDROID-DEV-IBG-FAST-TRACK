@@ -21,26 +21,25 @@
 15-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:8:9-41
 16        android:supportsRtl="true"
 16-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:9:9-35
-17        android:testOnly="true"
-18        android:theme="@style/AppTheme" >
-18-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:9-40
-19        <activity android:name="com.example.android.materialme.DetailActivity" />
-19-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:9-61
-19-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:19-49
-20        <activity android:name="com.example.android.materialme.MainActivity" >
-20-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:9-18:20
-20-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:19-47
-21            <intent-filter>
-21-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:13:13-17:29
-22                <action android:name="android.intent.action.MAIN" />
-22-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:17-69
-22-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:25-66
-23
-24                <category android:name="android.intent.category.LAUNCHER" />
-24-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:17-77
-24-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:27-74
-25            </intent-filter>
-26        </activity>
-27    </application>
-28
-29</manifest>
+17        android:theme="@style/AppTheme" >
+17-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:9-40
+18        <activity android:name="com.example.android.materialme.DetailActivity" />
+18-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:9-61
+18-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:19-49
+19        <activity android:name="com.example.android.materialme.MainActivity" >
+19-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:9-18:20
+19-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:19-47
+20            <intent-filter>
+20-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:13:13-17:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:17-69
+21-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:17-77
+23-->D:\IBG-FAST-TRACK\Android_Fundamentals\05.2_Cards_and_colors\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:27-74
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>
