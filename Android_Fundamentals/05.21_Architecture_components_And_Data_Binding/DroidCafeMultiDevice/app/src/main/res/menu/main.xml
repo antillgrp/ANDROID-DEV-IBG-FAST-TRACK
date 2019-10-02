@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingDefaultResource"
+    >
+    <item android:id="@+id/day_night_mode_switch"
+        android:title="@string/day_night_title"
+        android:orderInCategory="10"
+        android:icon="@android:drawable/ic_menu_view"
+
+        tools:ignore="AlwaysShowAction"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/reload_prod_menu"
+        android:title="@string/reload_menu_title"
+        android:orderInCategory="10"
+        android:icon="@android:drawable/ic_menu_rotate"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/action_order"
+        android:title="@string/action_order"
+        android:orderInCategory="10"
+        android:icon="@drawable/ic_menu_shopping_cart"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/action_status"
+        android:title="@string/action_status"
+        android:orderInCategory="20"
+        android:icon="@drawable/ic_menu_status"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/action_favorites"
+        android:title="@string/action_favorites"
+        android:orderInCategory="30"
+        android:icon="@drawable/ic_drawer_favorites"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/action_about"
+        android:title="@string/action_about"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+</menu>

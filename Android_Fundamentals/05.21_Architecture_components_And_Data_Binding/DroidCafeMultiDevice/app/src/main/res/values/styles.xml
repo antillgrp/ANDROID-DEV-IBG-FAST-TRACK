@@ -1,0 +1,92 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="myTabLayoutStyle" parent="Widget.Design.TabLayout">
+        <item name="android:singleLine">true</item>
+        <item name="tabIndicatorColor">@android:color/primary_text_dark</item>
+        <item name="tabIndicatorHeight">6dp</item>
+        <item name="tabIndicatorAnimationDuration">1400</item>
+        <item name="tabRippleColor">@android:color/primary_text_dark</item>
+        <item name="tabSelectedTextColor">@android:color/primary_text_dark</item>
+        <item name="tabTextAppearance">@style/myTabTextStyle</item>
+    </style>
+    <!--
+                                               A
+                                               |
+                     __________________________|
+                     |
+                     |
+                     V
+    -->
+    <style name="myTabTextStyle">
+        <item name="android:textColor">@android:color/primary_text_dark</item>
+        <item name="android:textSize">50sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="HolderText">
+        <item name="android:textAppearance">
+            @style/TextAppearance.AppCompat.Headline
+        </item>
+    </style>
+
+    <style name="product_name">
+        <item name="android:textAppearance">
+            @style/TextAppearance.AppCompat.Headline
+        </item>
+        <item name="android:text">"Product name"</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <style name="product_info">
+        <item name="android:textAppearance">
+            @style/TextAppearance.AppCompat.Subhead
+        </item>
+        <item name="android:text">"Product info"</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="CartButtons" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/amount_btt_bg</item>
+        <item name="android:tint">@color/colorPrimary</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginRight">5dp</item>
+    </style>
+
+    <style name="AddButtons" parent="CartButtons">
+        <item name="android:src">@drawable/amount_ic_add_btt</item>
+        <item name="android:contentDescription">"ADD"</item>
+    </style>
+
+    <style name="SubButtons" parent="CartButtons">
+        <item name="android:src">@drawable/amount_ic_sub_btt</item>
+        <item name="android:contentDescription">"SUB"</item>
+    </style>
+
+    <style name="FavButtons" parent="CartButtons">
+        <item name="android:src">@drawable/ic_drawer_favorites</item>
+        <item name="android:contentDescription">"Add to favorites"</item>
+    </style>
+
+    <style name="BuyButtons" parent="CartButtons">
+        <item name="android:src">@drawable/ic_menu_shopping_cart</item>
+        <item name="android:contentDescription">"Add to Cart"</item>
+    </style>
+
+</resources>

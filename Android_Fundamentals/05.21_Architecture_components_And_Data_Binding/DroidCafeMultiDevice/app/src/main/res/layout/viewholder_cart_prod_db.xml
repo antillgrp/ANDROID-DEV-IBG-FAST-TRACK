@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    https://codelabs.developers.google.com/codelabs/android-databinding/#2
+-->
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingDefaultResource"
+    >
+    <data>
+        <import type="java.util.Objects"/>
+        <import type="java.util.Map.Entry"/>
+        <import type="com.gerson.droidcafeadaptative.ui.ui_00_home.ShCartRecycleViewAdapter.CartProductBinding"/>
+        <import type="com.gerson.droidcafeadaptative.model.ProductDescriptor"/>
+        <!-- https://stackoverflow.com/questions/37178955/data-binding-generic-variable -->
+        <!-- https://stackoverflow.com/a/49675199 -->
+        <variable name="cartProductBinding" type="CartProductBinding" />
+    </data>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <!--
+            http://jensklin.triangulum.uberspace.de/how-to-use-statelistdrawable/
+            <Button
+                    android:id="@+id/button_del_entry"
+                    android:layout_width="@dimen/button_size"
+                    android:layout_height="@dimen/button_size"
+                    android:background="@drawable/button_selector"
+            />
+        -->
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:id="@+id/product_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            style="@style/HolderText"
+            android:text='@{Objects.isNull(cartProductBinding) ? "no data" : cartProductBinding.key.name}'
+            />
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+        <ImageButton
+            android:id="@+id/button_sub"
+            android:layout_width="@dimen/button_size"
+            android:layout_height="@dimen/button_size"
+            style="@style/SubButtons"
+            tools:ignore="ContentDescription"
+            android:onClick="@{cartProductBinding::onClick}"
+            />
+        <TextView
+            android:id="@+id/product_amount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/HolderText"
+            android:text='@{Objects.isNull(cartProductBinding) ? "0.0" : String.valueOf(cartProductBinding.value)}'
+            />
+        <ImageButton
+            android:id="@+id/button_add"
+            android:layout_width="@dimen/button_size"
+            android:layout_height="@dimen/button_size"
+            style="@style/AddButtons"
+            tools:ignore="ContentDescription"
+            android:onClick="@{cartProductBinding::onClick}"
+            />
+        <!--
+            Exs.
+            android:onClick="@{() -> presenter.onSaveClick(task)}"
+            android:onClick="@{(view) -> presenter.onSaveClick(task)}"
+            android:onClick="@{(theView) -> presenter.onSaveClick(theView, task)}"
+            android:onCheckedChanged="@{(cb, isChecked) -> presenter.completeChanged(task, isChecked)}"
+            android:onClick="@{(v) -> v.isVisible() ? doSomething() : void}"
+        -->
+</LinearLayout>
+
+</layout>
